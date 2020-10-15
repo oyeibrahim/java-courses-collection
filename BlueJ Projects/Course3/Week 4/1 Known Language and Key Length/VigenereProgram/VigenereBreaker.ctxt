@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=message\ whichSlice\ totalSlices
+comment0.target=java.lang.String\ sliceString(java.lang.String,\ int,\ int)
+comment1.params=encrypted\ klength\ mostCommon
+comment1.target=int[]\ tryKeyLength(java.lang.String,\ int,\ char)
+comment2.params=
+comment2.target=void\ breakVigenere()
+numComments=3

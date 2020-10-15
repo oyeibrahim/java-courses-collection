@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=quakeData\ magMin
+comment0.target=java.util.ArrayList\ filterByMagnitude(java.util.ArrayList,\ double)
+comment1.params=quakeData\ distMax\ from
+comment1.target=java.util.ArrayList\ filterByDistanceFrom(java.util.ArrayList,\ double,\ Location)
+comment2.params=list
+comment2.target=void\ dumpCSV(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ bigQuakes()
+comment4.params=
+comment4.target=void\ createCSV()
+comment5.params=
+comment5.target=void\ closeToMe()
+comment6.params=quakeData\ minDepth\ maxDepth
+comment6.target=java.util.ArrayList\ filterByDepth(java.util.ArrayList,\ double,\ double)
+comment7.params=
+comment7.target=void\ quakesOfDepth()
+comment8.params=quakeData\ where\ phrase
+comment8.target=java.util.ArrayList\ filterByPhrase(java.util.ArrayList,\ java.lang.String,\ java.lang.String)
+comment8.text=\r\n\ @param\ quakeData\ is\ the\ quake\ entries\r\n\ @param\ where\ indicates\ where\ to\ search\ inthe\ title\ and\ has\ one\ of\ three\ values\:\ (\u201Cstart\u201D,\ \u201Dend\u201D,\ \r\n\ or\ \u201Cany\u201D)\r\n\ @param\ phrase\ indicates\ the\ phrase\ to\ search\ for\ in\ the\ title\ of\ the\ earthquake\r\n
+comment9.params=
+comment9.target=void\ quakesByPhrase()
+numComments=10

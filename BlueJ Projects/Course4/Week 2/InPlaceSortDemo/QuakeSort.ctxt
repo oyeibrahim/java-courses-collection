@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=quakes\ from
+comment0.target=int\ getSmallestMagnitude(java.util.ArrayList,\ int)
+comment0.text=\r\n\ This\ class\ sort\ by\ re-arranging\ the\ elements\ in\ the\ file\ instead\ of\ creating\ another\ file\ to\ \r\n\ hold\ the\ sorted\ element...\ this\ prevents\ erasing\ elements\ in\ the\ original\ file\ and\ also\ prevents\r\n\ having\ to\ create\ another\ file\ to\ hold\ the\ sorted\ elements\r\n
+comment1.params=in
+comment1.target=void\ sortByMagnitude(java.util.ArrayList)
+comment10.params=in
+comment10.target=void\ sortByMagnitudeWithCheck(java.util.ArrayList)
+comment2.params=
+comment2.target=void\ testSort()
+comment2.text=tester\ method\ to\ use\ in\ BlueJ
+comment3.params=quakes\ from
+comment3.target=int\ getLargestDepth(java.util.ArrayList,\ int)
+comment4.params=in
+comment4.target=void\ sortByLargestDepth(java.util.ArrayList)
+comment5.params=quakeData\ numSorted
+comment5.target=void\ onePassBubbleSort(java.util.ArrayList,\ int)
+comment5.text=\r\n\ Bubble\ Sort\r\n
+comment6.params=in
+comment6.target=void\ sortByMagnitudeWithBubbleSort(java.util.ArrayList)
+comment7.params=quakes
+comment7.target=boolean\ checkInSortedOrder(java.util.ArrayList)
+comment8.params=in
+comment8.target=void\ sortByMagnitudeWithBubbleSortWithCheck(java.util.ArrayList)
+comment9.params=quakes
+comment9.target=boolean\ checkInSortedOrderForSelectionSort(java.util.ArrayList)
+numComments=11

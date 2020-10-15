@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=resource\ counts
+comment0.target=void\ countWordLengths(edu.duke.FileResource,\ int[])
+comment1.params=values
+comment1.target=int\ indexOfMax(int[])
+comment2.params=
+comment2.target=void\ test()
+comment2.text=public\ void\ newtest(){\r\n\ \ \ \ \ \ \ \ int\ []\ ans\ \=\ countWordLengths();\r\n\ \ \ \ \ \ \ \ for(int\ k\=1;\ k\ <\ ans.length;\ k++){\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println(ans[k]);\r\n\ \ \ \ \ \ \ \ }\r\n}
+comment3.params=
+comment3.target=void\ testCountWordLengths()
+numComments=4

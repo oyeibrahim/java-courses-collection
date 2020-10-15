@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=quakeData\ current\ howMany
+comment0.target=java.util.ArrayList\ getClosest(java.util.ArrayList,\ Location,\ int)
+comment1.params=
+comment1.target=void\ findClosestQuakes()
+comment1.text=\r\n\ use\ the\ above\ method\ to\ get\ the\ closest\ earthquake\ to\ whichever\ location\ you\ want\ to\ check\ for\r\n
+numComments=2
